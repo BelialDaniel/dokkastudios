@@ -1,2 +1,2 @@
-# dokkastudios
+# DokkaStudios
 Personal webpage
