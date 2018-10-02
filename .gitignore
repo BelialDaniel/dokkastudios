@@ -1,6 +1,13 @@
-vendor/
+/node_modules
 node_modules/
+/vendor
+vendor/
+/.idea
+/.vscode
+/.vagrant
 npm-debug.log
+yarn-error.log
+.phpunit.result.cache
 
 # Laravel 4 specific
 bootstrap/compiled.php
@@ -8,8 +15,11 @@ app/storage/
 
 # Laravel 5 & Lumen specific
 public/storage
+/public/storage
 public/hot
+/public/hot
 storage/*.key
+/storage/*.key
 .env.*.php
 .env.php
 .env
