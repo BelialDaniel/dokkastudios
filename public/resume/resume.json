@@ -1,0 +1,216 @@
+{
+  "basics": {
+    "name": "Daniel A. Maldonado Morales",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "daniel.m.morales@gmail.com",
+    "phone": "(871) 7954964",
+    "website": "http://dokkastudios.com",
+    "summary": "I was born in Torreón, Coahuila. I have a degree on computer systems engineering  which i earned at  \"Instituto Tecnológico de la Laguna\" Before starting to work as a software developer in Dedagroup México, I got a degree in Cs.M. on electrical engineering working in the development of a  system to monitoring a erogenerator after that I was working on my Ph.D. degree on elecrical engineering which was focused in mesh generation to electromagnetic problems using FEM (Finite Element Method).",
+    
+    "location": {
+      "address": "#184 Av. Union Col. Americana",
+      "postalCode": "44160",
+      "city": "Guadalajara",
+      "countryCode": "México",
+      "region": "Jalisco"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "belialdaniel",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Daniel A.",
+        "url": "https://www.linkedin.com/in/daniel-maldonado-morales/"
+      },
+      {
+        "network": "GitHub",
+        "username": "belialdaniel",
+        "url": "https://github.com/BelialDaniel"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Dedagroup México",
+      "position": "Java Developer",
+      "website": "http://dedamex.mx",
+      "startDate": "2017-10-01",
+      "endDate": "",
+      "summary": " I am a software developer at Dedagroup. I work with on backend creating new queries, maintain the codebase and creating new features in Java for a prepaid card transactions software; I get my tasks assigned with an issue tracker (Redmine) and when I am done I talk with my project manager about the work developed so it can be reviewed.",
+      "highlights": [
+        "Java",
+        "Design pattern ",
+        "Bug fixer",
+        "Database querys"
+      ]
+    },
+    {
+      "company": "FreeLancer",
+      "position": "Android Developer",
+      "website": "http://dokkastudios.com",
+      "startDate": "2017-07-01",
+      "endDate": "2017-09-25",
+      "summary": "I worked developing a mobile app for a record label that was able to register bands and their tour dates / events, it was also possible to see which events were closer to your location.",
+      "highlights": [
+        "Retrofit",
+        "Laravel",
+        "Android"
+      ]
+    },
+    {
+      "company": "Instituto Tecnológico de la Laguna",
+      "position": "Master’s degree Theses",
+      "website": "http://dokkastudios.com",
+      "startDate": "2015-00-01",
+      "endDate": "2017-00-12",
+      "summary": "Worked on a system that could be able to get parameter from an aerogenerator (AG) and store them in a local and remote database. I developed the system in LabView and I used microcontrollers to monitoring the aerogenerator and I develop an app in Android to consume a restful API to get the information from the database and shows parameter to the user about the aerogenerator.",
+      "highlights": [
+        "Mesh Generation Methods",
+        "C++",
+        "OpenGL",
+        "QT",
+        "Android",
+        "Desgin Patterns",
+        "Visual Studio"
+      ]
+    },
+    {
+      "company": "Instituto Tecnológico de la Laguna",
+      "position": "Master’s degree Theses",
+      "website": "http://dokkastudios.com",
+      "startDate": "2013-00-01",
+      "endDate": "2014-00-12",
+      "summary": "Monitoring system to aerogenerators (ISSN: 0188-9060). I Worked on a system that could be able to get parameter from an aerogenerator (AG) and store them in a local and remote database. I developed the system in LabView and I used microcontrollers to monitoring the aerogenerator and I develop an app in Android to consume a restful API to get the information from the database and shows parameter to the user about the aerogenerator.",
+      "highlights": [
+        "LabView",
+        "Java",
+        "Restful API",
+        "Android",
+        "Microcontrollers",
+        "Mysql"
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [ {
+      "institution": "Instituto Tecnológico de la Laguna",
+      "area": "Electrical Engineer",
+      "studyType": "Doctoral Degree: Mesh generator in 2D and 3D to electromagnetic problems with finite element.",
+      "startDate": "2015-00-00",
+      "endDate": "Unfinished",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Instituto Tecnológico de la Laguna",
+      "area": "Electrical Engineer",
+      "studyType": "Master’s Degree: Monitoring system to aerogenerators. (ISSN: 0188-9060)",
+      "startDate": "2013-01-00",
+      "endDate": "2014-12-00",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Instituto Tecnológico de la Laguna",
+      "area": "Computer Systems",
+      "studyType": "Engineer: Monitoring variables from an electrical vehicule using an app develop in Android",
+      "startDate": "2007-08-13",
+      "endDate": "2012-01-01",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+    {
+      "name": "“Aplicación en Android para el monitoreo de variables de un Motor Eléctrico”",
+      "publisher": "2o Congreso Nacional de Electromecánica y Eléctrica (CONAEE)",
+      "releaseDate": "2013-03-20",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "“Transferencia de datos de un Dispositivo Embebido a un Dispositivo Android a través de Comunicación Bluetooth”",
+      "publisher": "Foro Academico Regional de Eléctronica en el Instituto Tecnológico de la Laguna",
+      "releaseDate": "2013-10",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "“Desarrollo de un Generador de Mallas de Elementos Finitos Utilizando Java”",
+      "publisher": "3er Congreso Nacional de Electromecánica y Eléctrica (CONAEE) ",
+      "releaseDate": "2014-03-24",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "“Certificate of Completion”, for successful completion of “EMTP-RV”",
+      "publisher": "Powersys",
+      "releaseDate": "2016-05",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Design Patterns",
+      "level": "",
+      "keywords": [
+        "Strategy",
+        "Factory",
+        "Singleton"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native language"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediary"
+    }
+  ],
+  "interests": [
+    {
+      "name":"Design patterns",
+      "keywords":[]
+    },
+    {
+      "name": "Node.js",
+      "keywords": []
+    },
+    {
+      "name": "Kotlin",
+      "keywords": []
+    },
+    {
+      "name":"Ruby & Ruby on rails",
+      "keywords":[]
+    },
+    {
+      "name":"Python & Django",
+      "keywords":[]
+    },
+    {
+      "name": "Java",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "keywords": []
+    }
+  ],
+  "references": [
+  ]
+}
